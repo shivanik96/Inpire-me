@@ -1,0 +1,43 @@
+{
+  "languageModel": {
+    "intents": [
+      {
+        "name": "AMAZON.CancelIntent",
+        "samples": []
+      },
+      {
+        "name": "AMAZON.HelpIntent",
+        "samples": []
+      },
+      {
+        "name": "AMAZON.StopIntent",
+        "samples": []
+      },
+      {
+        "name": "getQuoteIntent",
+        "samples": [
+          "get me an inspirational quote",
+          "give me a quote",
+          "tell me something",
+          "inspire me",
+          "tell me something I am bored",
+          "I am bored tell me something",
+          "tell me something interesting",
+          "get me a quote",
+          "say a quote",
+          "say an inspirational quote",
+          "get a quote",
+          "give me an inspirational quote",
+          "I want a quote",
+          "I want an inspirational quote",
+          "fetch me a quote",
+          "fetch me an inspirational quote",
+          "give me something",
+          "fetch me something"
+        ],
+        "slots": []
+      }
+    ],
+    "invocationName": "inspire me"
+  }
+}
